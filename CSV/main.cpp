@@ -34,12 +34,9 @@ int main() {
         // Reabrir el archivo para lectura
         ifstream archivoLectura("output.csv");
         if (archivoLectura.is_open()) {
-            setlocale(LC_ALL, "");
+            setlocale(LC_CTYPE, "Spanish");
             cout << "Contenido del archivo:" << endl;
-            string linea;
-            while (getline(archivoLectura, linea)) {
-                cout << linea << endl;
-            }
+            cout << archivoLectura.rdbuf() << endl;
             archivoLectura.close();
         } else {
             cout << "No se pudo abrir el archivo para lectura" << endl;
