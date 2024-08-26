@@ -1,0 +1,3 @@
+C:/Users/LenovoE450/CLionProjects/Codigode22agosto/cmake-build-debug/CMakeFiles/Codigode22agosto.dir
+C:/Users/LenovoE450/CLionProjects/Codigode22agosto/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LenovoE450/CLionProjects/Codigode22agosto/cmake-build-debug/CMakeFiles/rebuild_cache.dir
