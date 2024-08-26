@@ -1,0 +1,4 @@
+C:/Users/LenovoE450/Downloads/Carpeta 11224-300/proyecto-programado-charlie/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/LenovoE450/Downloads/Carpeta 11224-300/proyecto-programado-charlie/cmake-build-debug/CMakeFiles/copy-compile-commands.dir
+C:/Users/LenovoE450/Downloads/Carpeta 11224-300/proyecto-programado-charlie/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LenovoE450/Downloads/Carpeta 11224-300/proyecto-programado-charlie/cmake-build-debug/CMakeFiles/rebuild_cache.dir
