@@ -1,0 +1,12 @@
+[
+    {
+        "direccion" : "Francia",
+        "id" : 123,
+        "nombre" : "Maria"
+    },
+    {
+        "direccion" : "Noruega",
+        "id" : 123,
+        "nombre" : "Jose"
+    }
+]

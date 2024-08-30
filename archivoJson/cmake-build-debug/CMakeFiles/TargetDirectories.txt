@@ -1,0 +1,3 @@
+C:/Users/LenovoE450/CLionProjects/archivoJson/cmake-build-debug/CMakeFiles/archivoJson.dir
+C:/Users/LenovoE450/CLionProjects/archivoJson/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LenovoE450/CLionProjects/archivoJson/cmake-build-debug/CMakeFiles/rebuild_cache.dir
