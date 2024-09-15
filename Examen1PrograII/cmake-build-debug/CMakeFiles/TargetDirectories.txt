@@ -1,0 +1,3 @@
+C:/Users/LenovoE450/Downloads/Examen1PrograII/cmake-build-debug/CMakeFiles/Examen1PrograII.dir
+C:/Users/LenovoE450/Downloads/Examen1PrograII/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/LenovoE450/Downloads/Examen1PrograII/cmake-build-debug/CMakeFiles/rebuild_cache.dir
