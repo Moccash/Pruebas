@@ -1,0 +1,3 @@
+C:/Users/ESCINF/CLionProjects/Memento/cmake-build-debug/CMakeFiles/Memento.dir
+C:/Users/ESCINF/CLionProjects/Memento/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/ESCINF/CLionProjects/Memento/cmake-build-debug/CMakeFiles/rebuild_cache.dir
